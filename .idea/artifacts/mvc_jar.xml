@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="mvc:jar">
+    <output-path>$PROJECT_DIR$/resources</output-path>
+    <root id="archive" name="mvc.jar">
+      <element id="module-output" name="mvc" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
