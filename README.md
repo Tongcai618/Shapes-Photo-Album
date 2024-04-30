@@ -5,7 +5,9 @@ To use the album, firstly, open the terminal and navigate to the resources' fold
 Typing commands like:
 ```java -jar NameOfJARFile.jar -in demo_input.txt -view web -out out.html```
 to run the program.
+
 ![img.png](img.png)
+
 ![img_1.png](img_1.png)
 
 Users can deploy four buttons to control the album.
